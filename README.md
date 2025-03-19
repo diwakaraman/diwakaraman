@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diwakaraman&label=Profile%20views&color=0e75b6&style=flat" alt="diwakaraman" /> </p>
 
-- 📫 How to reach me **iamankumardiwakar@gmai.com**
+- 📫 How to reach me **iamankumardiwakar@gmail.com**
 
 - ⚡ Fun fact **i'm funny**
 

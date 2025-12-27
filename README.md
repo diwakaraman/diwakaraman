@@ -1,4 +1,4 @@
-<h1>Hey i'm Aman Diwakar</h1>
+<!-- <h1>Hey i'm Aman Diwakar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diwakaraman&label=Profile%20views&color=0e75b6&style=flat" alt="diwakaraman" /> </p>
@@ -21,4 +21,112 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diwakaraman&show_icons=true&locale=en" alt="diwakaraman" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diwakaraman&" alt="diwakaraman" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diwakaraman&" alt="diwakaraman" /></p>  -->
+
+
+
+
+
+<h1 align="center">👋 Hey, I'm Aman Diwakar</h1>
+<h3 align="center">🚀 Passionate Full Stack Developer from India</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;JavaScript+%26+React+Lover;Node.js+Backend+Developer;Problem+Solver+on+LeetCode;Always+Learning+New+Tech" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=diwakaraman&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/diwakaraman?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/diwakaraman?label=Stars&style=for-the-badge" />
+</p>
+
+---
+
+## 🙋‍♂️ About Me
+- 🔭 Currently working on **Full Stack Web Projects**
+- 🌱 Learning **Advanced JavaScript, React & Node.js**
+- 👨‍💻 Interested in **MERN Stack Development**
+- 🧠 Practicing **Data Structures & Algorithms**
+- 📫 Reach me at **iamankumardiwakar@gmail.com**
+- ⚡ Fun fact: **I'm funny 😄**
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/aman diwakar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/mr_aman5588" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.leetcode.com/aman_diwakar" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+### 💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js&theme=dark" />
+</p>
+
+### ⚙️ Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs&theme=dark" />
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+</p>
+
+### 🧰 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=diwakaraman&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=diwakaraman&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwakaraman&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🧩 Coding Profiles
+- 🟡 **LeetCode:** Regular problem solver
+- 🟢 **GitHub:** Open to collaboration & open source
+- 🔵 **LinkedIn:** Tech & career networking
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/diwakaraman/diwakaraman/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=diwakaraman&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+<p align="center">
+  ⭐ If you like my work, consider following me!
+</p>
+

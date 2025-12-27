@@ -1,11 +1,23 @@
-<!-- <h1>Hey i'm Aman Diwakar</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<!-- <h1 align="center">👋 Hey, I'm Aman Diwakar</h1>
+<h3 align="center">🚀 Passionate Full Stack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diwakaraman&label=Profile%20views&color=0e75b6&style=flat" alt="diwakaraman" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;JavaScript+%26+React+Lover;Node.js+Backend+Developer;Problem+Solver+on+LeetCode;Always+Learning+New+Tech" />
+</p>
 
-- 📫 How to reach me **iamankumardiwakar@gmail.com**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=diwakaraman&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/diwakaraman?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/diwakaraman?label=Stars&style=for-the-badge" />
+</p>
 
-- ⚡ Fun fact **i'm funny**
+## 🙋‍♂️ About Me
+- 🔭 Currently working on **Full Stack Web Projects**
+- 🌱 Learning **Advanced JavaScript, React & Node.js**
+- 👨‍💻 Interested in **MERN Stack Development**
+- 🧠 Practicing **Data Structures & Algorithms**
+- 📫 Reach me at **iamankumardiwakar@gmail.com**
+- ⚡ Fun fact: **I'm funny 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,28 +39,11 @@
 
 
 
-<h1 align="center">👋 Hey, I'm Aman Diwakar</h1>
-<h3 align="center">🚀 Passionate Full Stack Developer from India</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;JavaScript+%26+React+Lover;Node.js+Backend+Developer;Problem+Solver+on+LeetCode;Always+Learning+New+Tech" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=diwakaraman&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/diwakaraman?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/diwakaraman?label=Stars&style=for-the-badge" />
-</p>
 
 ---
 
-## 🙋‍♂️ About Me
-- 🔭 Currently working on **Full Stack Web Projects**
-- 🌱 Learning **Advanced JavaScript, React & Node.js**
-- 👨‍💻 Interested in **MERN Stack Development**
-- 🧠 Practicing **Data Structures & Algorithms**
-- 📫 Reach me at **iamankumardiwakar@gmail.com**
-- ⚡ Fun fact: **I'm funny 😄**
+
 
 ---
 
@@ -80,7 +75,7 @@
 
 ### 🗄️ Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
 </p>
 
 ### 🧰 Tools & Platforms
@@ -104,13 +99,6 @@
 </p>
 
 ---
-
-## 🧩 Coding Profiles
-- 🟡 **LeetCode:** Regular problem solver
-- 🟢 **GitHub:** Open to collaboration & open source
-- 🔵 **LinkedIn:** Tech & career networking
-
-
 
 <p align="center">
   ⭐ If you like my work, consider following me!

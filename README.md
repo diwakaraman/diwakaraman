@@ -1,4 +1,4 @@
-<!-- <h1 align="center">👋 Hey, I'm Aman Diwakar</h1>
+ <h1 align="center">👋 Hey, I'm Aman Diwakar</h1>
 <h3 align="center">🚀 Passionate Full Stack Developer from India</h3>
 
 <p align="center">
@@ -33,23 +33,17 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diwakaraman&show_icons=true&locale=en" alt="diwakaraman" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diwakaraman&" alt="diwakaraman" /></p>  -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diwakaraman&" alt="diwakaraman" /></p> 
 
 
 
 
 
 
-
----
-
-
-
----
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/aman diwakar" target="_blank">
+  <a href="https://linkedin.com/in/aman-diwakar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/mr_aman5588" target="_blank">

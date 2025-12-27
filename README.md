@@ -39,59 +39,6 @@
 
 
 
-
-
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/aman-diwakar-48527a28b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/mr_aman5588" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.leetcode.com/aman_diwakar" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
-  </a>
-</p>
-
----
-
-## 🛠️ Tech Stack
-### 💻 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js&theme=dark" />
-</p>
-
-### ⚙️ Frameworks & Libraries
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs&theme=dark" />
-</p>
-
-### 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
-</p>
-
-### 🧰 Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=diwakaraman&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=diwakaraman&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwakaraman&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 <p align="center">

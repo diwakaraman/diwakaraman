@@ -110,21 +110,7 @@
 - 🟢 **GitHub:** Open to collaboration & open source
 - 🔵 **LinkedIn:** Tech & career networking
 
----
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/diwakaraman/diwakaraman/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=diwakaraman&theme=tokyonight&row=1&column=6" />
-</p>
-
----
 
 <p align="center">
   ⭐ If you like my work, consider following me!
